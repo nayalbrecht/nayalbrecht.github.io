@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2023 - Current: Research associate in data
+* 2023 - Present: Research associate in data
   * Newcastle University, Newcastle upon Tyne, UK
   * Duties: data visualisation and support for local policymakers
 

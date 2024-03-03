@@ -26,6 +26,10 @@ Work experience
   * Duties: research, teaching (module leader)
   * Supervisor: Professor Pedro Floriano Ribeiro
 
+* 2020 - 2020: Polyvalent assistant
+  * Quebec's Office in Brazil, Sao Paulo, Brazil
+  * Duties: organising activities related to culture and education; promoting Quebec in Brazil; administrative tasks
+    
 * 2017 - 2018: Lecturer
   * Federal University of Rio de Janeiro, Rio de Janeiro, Brazil
   * Duties: research, teaching (module leader)

@@ -11,46 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Political Science, University of Brasilia, 2019
+* MSc in Political Science, University of Brasilia, 2015
+* BA in Political Science, University of Brasilia, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - Current: Research associate in data
+  * Newcastle University, Newcastle upon Tyne, UK
+  * Duties: data visualisation and support for local policymakers
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - 2023: Postdoctoral fellow in political science
+  * Federal University of Sao Carlos, Sao Paulo Research Foundation fellowship, Sao Carlos, Brazil
+  * Duties: research, teaching (module leader)
+  * Supervisor: Professor Pedro Floriano Ribeiro
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - 2018: Lecturer
+  * Federal University of Rio de Janeiro, Rio de Janeiro, Brazil
+  * Duties: research, teaching (module leader)
+ 
+* 2014 - 2020: Civil servant
+  * Ministry of Culture, Brasilia, Brazil
+  * Duties: management, international negotiation, policy design and implementation
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Portuguese
+  * English
+  * French
+  * Spanish
+* Programming languages
+  * SQL
+  * R
+  * Python
+* Sofware
+  * Microsoft 365
+  * Power BI
+  * ArcGIS
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -61,4 +65,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Chair of the International Political Science Association's research committee on politics and business
+* Member of the Equality, Diversity and Inclusion Committee (School of Geography, Politics and Sociology, Newcastle University)
+* Pro:NE mentor (programme dedicated to minoritised ethnic students)  

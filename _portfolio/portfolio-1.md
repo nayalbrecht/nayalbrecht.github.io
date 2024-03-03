@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Bureaucratic politics"
+excerpt: "Compilation of bibliography on the public bureaucracy, focusing on politicisation, and new dataset on Brazilian officers (2011 - 2022)"
 collection: portfolio
 ---
 

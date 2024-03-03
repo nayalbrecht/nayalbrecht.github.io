@@ -23,3 +23,9 @@ This repository combines data-driven and theory-driven approaches for researchin
 A dynamic and equalitarian perspective of teaching
 ======
 This page also offers resources for researching and teaching data science and political science. The page "research and resources" contains all the repositories linked to my previous research projects. In teaching, you will find the links to the syllabus and descriptions of the modules I led. I believe in a dynamic and equalitarian teaching perspective, where students have the autonomy to develop critical thinking. I do not believe in strong social hierarchies. My role as a lecturer is similar to that of a facilitator. My teaching methodology includes practical and interactive exercises combining political science with my students' hobbies, e.g. political analysis of TV shows and pop culture. I am also able to use different media. I always support my students in their endeavours. 
+
+
+
+
+Disclaimer: This page used the template made by academicpages.github.io.
+Copyright (c) 2016 Michael Rose

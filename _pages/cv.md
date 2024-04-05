@@ -38,7 +38,7 @@ Work experience
   * Ministry of Culture, Brasilia, Brazil
   * Duties: management, international negotiation, policy design and implementation
 
-Research Groups and Clusters
+Research Centres, Groups and Clusters
 ======
 * Quantitative Research in Politics, Newcastle University 
 * Governance and Political Organisations, Newcastle University

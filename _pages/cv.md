@@ -37,7 +37,19 @@ Work experience
 * 2014 - 2020: Civil servant
   * Ministry of Culture, Brasilia, Brazil
   * Duties: management, international negotiation, policy design and implementation
+
+Research Groups and Clusters
+======
+* Quantitative Research in Politics, Newcastle University 
+* Governance and Political Organisations, Newcastle University
+* Centre for Latin American and Caribbean Studies, Newcastle University
+* Centre for Urban and Regional Development Studies, Newcastle University
+* Newcastle Data, Newcastle University
+* Copyright and Industrial Property (Federal University of Parana)
+* Internet and Public Policies, University of Brasilia (2019-2020)
+* Democracy and Inequalities, University of Brasilia (2013-2016)
   
+
   
 Skills
 ======

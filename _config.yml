@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Research, Teaching and Policymaking"
+title                    : "Research, Teaching, and Policymaking"
 title_separator          : "-"
 name                     : &name "Nayara Albrecht"
 description              : &description "Political scientist, wannabe data scientist, dancer, and fighter in free time"

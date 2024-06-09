@@ -21,7 +21,7 @@ repository               : "nayalbrecht/nayalbrecht.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "nayara_avatar.jpeg"
+  avatar           : "n_avatar.jpeg"
   name             : "Nayara Albrecht"
   pronouns         : # example: "she/her"  
   bio              : "Enthusiastic political scientist with extensive experience in policymaking, teaching, and research."

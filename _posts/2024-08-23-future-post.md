@@ -1,0 +1,22 @@
+---
+title: 'Will Robots Ever Replace Humans?'
+date: 2024-08-23
+permalink: /posts/2024/08/blog-post-2/
+tags:
+  - AI
+  - learning
+---
+
+Born in 1989, I have closely followed the evolution of digital technologies. I witnessed the emergence of smartphones, the development of faster personal computers, the proliferation of software and apps for various purposes, and most recently, the expansion of artificial intelligence, or AI.
+
+AI is not new. It has been around for quite some time—since extraordinary mathematicians and scientists advanced computational techniques. "Enhanced computation" was, in fact, the most precise definition of AI I've ever heard. I distinctly remember when we began using mobile phones more extensively, my parents advised me: "Don’t use it too much, or you’ll forget how to handwrite." It has been more than 20 years, and I never forgot how to write. In fact, I still love handwriting.
+
+Amidst the growing expansion of AI tools, people have raised similar, if not greater, concerns. They worry about students using ChatGPT to cheat or people losing jobs as their roles are replaced by artificial intelligence. I am sceptical about a total replacement. A robot might write a beautiful poem, but it lacks emotion. AI may be intelligent, but it is still artificial. Moreover, these tools also present opportunities, particularly in saving time spent on manual tasks. GPT has helped me proofread my texts (including this one—I still wrote it!) and correct my code (in R, the programming language I use for data science). I also ask questions about grammar when I'm unsure about a rule. The potential is infinite.
+
+This doesn't mean we shouldn’t be concerned. AI might not replace humans entirely, but it is still a disruption. Someone once said, “You won’t be replaced by AI, but by someone who knows how to use it.” True. Learning how to make the best use of AI will require training and persistence. It might be overwhelming. Additionally, discussing ethics and the quality of the data used to train these AI tools is extremely important. Not surprisingly, many advanced tools still reproduce human prejudices and stereotypes. This needs to be addressed.
+
+Still, we can’t let fear prevent us from benefiting from the numerous advantages AI offers. If AI can automate tasks and save time, a world where humans can dedicate themselves to what truly matters—self-development, human connections, the arts—is not far away. It can also aid in learning. In the latest data science and machine learning workshop I designed, I taught my students how to use GPT to correct their code and identify mistakes. The potential for health is immense as well, with AI assisting in tasks like image scanning and diagnosis. However, we must remain cautious, as accuracy still presents a significant challenge.
+
+With all this in mind, I still believe AI will bring more benefits than risks if we address ethical concerns properly. Not only did I not forget how to write after the smartphone, but it also made my life easier. I hope that the same will happen with machine learning, large language models, and other AI branches.
+AI is inevitable. I truly hope humanity will democratically benefit from its ethical use.
+

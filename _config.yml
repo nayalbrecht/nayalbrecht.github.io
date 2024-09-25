@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Computational Political Science in a Nutshell: Analytical Techniques for Researchers and Policymakers"
+title                    : "Computational Political Science in a Nutshell"
 title_separator          : "-"
 name                     : &name "Nayara Albrecht"
 description              : &description "Political scientist, wannabe data scientist, dancer, and fighter"

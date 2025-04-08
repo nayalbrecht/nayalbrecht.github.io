@@ -10,7 +10,7 @@
 locale                   : "en-UK"
 title                    : "The Magical World of Data and Political Science"
 title_separator          : "-"
-name                     : &name "Nayara Albrecht"
+name                     : &name "Nayara Albrecht - Nabot"
 description              : &description "Political scientist, data wizard, dancer, and fighter"
 url                      : https://nayalbrecht.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "nayalbrecht/nayalbrecht.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "n_avatar.jpeg"
+  avatar           : "nabot2.png"
   name             : "Nayara Albrecht"
   pronouns         : # example: "she/her"  
   bio              : "Political scientist with extensive experience in teaching, research, and data analysis for policymaking."

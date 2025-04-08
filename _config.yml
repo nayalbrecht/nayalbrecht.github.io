@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Computational Political Science in a Nutshell"
+title                    : "The Magical World of Data and Political Science"
 title_separator          : "-"
 name                     : &name "Nayara Albrecht"
-description              : &description "Political scientist, wannabe data scientist, dancer, and fighter"
+description              : &description "Political scientist, data wizard, dancer, and fighter"
 url                      : https://nayalbrecht.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nayalbrecht/nayalbrecht.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "n_avatar.jpeg"
   name             : "Nayara Albrecht"
   pronouns         : # example: "she/her"  
-  bio              : "Enthusiastic political scientist with extensive experience in policymaking, teaching, and research."
+  bio              : "Political scientist with extensive experience in teaching, research, and data analysis for policymaking."
   location         : "Newcastle Upon Tyne, UK"
   employer         : "Newcastle University"
   uri              : # URL

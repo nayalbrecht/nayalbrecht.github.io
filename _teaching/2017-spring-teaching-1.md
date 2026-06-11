@@ -2,7 +2,7 @@
 title: "Undergraduate courses"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2017-spring-teaching-1
+permalink: /teaching/undergraduate-teaching
 venue: "Different institutions"
 date: "From 2009 to 2026"
 location: "Brasilia, Rio de Janeiro, and Amsterdam"

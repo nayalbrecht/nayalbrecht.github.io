@@ -3,12 +3,12 @@ title: "Undergraduate courses"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-spring-teaching-1
-venue: "Federal University of Rio de Janeiro, Social Sciences"
-date: 2017-07-01
+venue: "Many"
+date: 2017-Present
 location: "Rio de Janeiro, Brazil"
 ---
 
-From 2017 to 2018, I was the module leader of three subjects at the Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil.
+I have led and co-taught modules in Brazil, the UK, and the Netherlands in institutions such as the University of Brasilia, the Federal University of Rio de Janeiro, Aston University, and the University of Amsterdam. The main undergraduate courses I led were:
 
 Introduction to Political Science
 ======
@@ -21,3 +21,11 @@ Contemporary Topics of Political Science explores current issues like internatio
 Contemporary Democratic Theories
 ======
 The module "Contemporary Democratic Theories" delves into modern democratic theories and their connections with classical and modern political philosophy. Students engage in discussions on the works of Dahl and Schumpeter, alongside more recent approaches like identity theories and feminism. The course aims to provide a comprehensive understanding of contemporary perspectives on democracy, examining its evolution and relevance in today's political landscape.
+
+BA Research Project: The Politics of the Public Bureaucracy
+======
+This course examines theoretical and empirical contributions that explore the relationships between bureaucrats, political institutions, and policymaking. Its central aim is to understand how government officers and institutional arrangements interact and shape policy processes and outcomes. 
+
+Comparative Public Policy
+======
+This course introduces students to the study of contemporary public policy and governance through a comparative approach. It explores the impacts of institutions, stakeholders, and ideas in policy outcomes in different jurisdictions. It also offers discussions and builds capacity on analytical skills related to comparative research designs.

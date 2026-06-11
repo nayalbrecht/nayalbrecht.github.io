@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "The Magical World of Data and Political Science"
+title                    : "Data & Political Science"
 title_separator          : "-"
 name                     : &name "Nayara Albrecht - Nabot"
 description              : &description "Political scientist, data wizard, dancer, and fighter"

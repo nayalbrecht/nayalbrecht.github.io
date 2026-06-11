@@ -3,9 +3,9 @@ title: "Undergraduate courses"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-spring-teaching-1
-venue: "Many"
+venue: "Different institutions"
 date: 2017-01-01
-location: "several"
+location: "Brasilia, Rio de Janeiro, and Amsterdam"
 ---
 
 I have led and co-taught modules in Brazil, the UK, and the Netherlands in institutions such as the University of Brasilia, the Federal University of Rio de Janeiro, Aston University, and the University of Amsterdam. The main undergraduate courses I led were:

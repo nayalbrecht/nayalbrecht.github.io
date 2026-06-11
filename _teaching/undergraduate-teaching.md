@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate courses"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/undergraduate-teaching
 venue: "Different institutions"
 date: "From 2009 to 2026"

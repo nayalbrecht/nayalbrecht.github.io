@@ -2,9 +2,9 @@
 title: "Graduate courses"
 collection: teaching
 type: "Graduate"
-permalink: /teaching/2021-spring-teaching-2
+permalink: /teaching/graduate-teaching
 venue: "Different institutions"
-date: 2021-01-01
+date: "From 2020 to 2026"
 location: "Sao Carlos, Birmingham, London, Newcastle, Amsterdam"
 ---
 

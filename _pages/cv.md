@@ -17,20 +17,28 @@ Education
 
 Work experience
 ======
-* 2023 - Present: Research associate in data
+* 2026 - Present: Assistant Professor of Public Policy and Governance
+  * University of Amsterdam, Amsterdam, the Netherlands
+  * Duties: teaching and research
+
+* 2024 - 2025: Visiting Assistant Professor of Public Policy
+  * Federal University for Latin American Integration, Foz do Iguaçu, Brazil
+  * Duties: teaching and research
+
+* 2023 - 2024: Research Associate in Data
   * Newcastle University, Newcastle upon Tyne, UK
   * Duties: data visualisation and support for local policymakers
 
-* 2020 - 2023: Postdoctoral fellow in political science
+* 2020 - 2023: Postdoctoral Fellow in Political Science
   * Federal University of Sao Carlos, Sao Paulo Research Foundation fellowship, Sao Carlos, Brazil
   * Duties: research, teaching (module leader)
   * Supervisor: Professor Pedro Floriano Ribeiro
 
-* 2020 - 2020: Polyvalent assistant
+* 2020 - 2020: Polyvalent Assistant
   * Quebec's Office in Brazil, Sao Paulo, Brazil
   * Duties: organising activities related to culture and education; promoting Quebec in Brazil; administrative tasks
     
-* 2017 - 2018: Lecturer
+* 2017 - 2018: Teaching Fellow
   * Federal University of Rio de Janeiro, Rio de Janeiro, Brazil
   * Duties: research, teaching (module leader)
  
@@ -40,6 +48,7 @@ Work experience
 
 Research Centres, Groups and Clusters
 ======
+* Transnational Configurations, Conflict and Governance
 * Quantitative Research in Politics, Newcastle University 
 * Governance and Political Organisations, Newcastle University
 * Centre for Latin American and Caribbean Studies, Newcastle University

@@ -3,9 +3,9 @@ title: "Graduate courses"
 collection: teaching
 type: "Graduate"
 permalink: /teaching/2021-spring-teaching-2
-venue: "Federal University of Sao Carlos (Brazil), Political Science, Aston University (UK), Politics, History and International Relations"
+venue: "many"
 date: 2021-01-01
-location: "Sao Carlos, Brazil and Birmingham, United Kingdom"
+location: "Sao Carlos, Birmingham, London, Newcastle, Amsterdam"
 ---
 I have a large experience teaching graduate courses. At the Federal University of Sao Carlos (UFSCar), I was the module leader for Topics in Public Policy: Politics, Bureaucracy, and Interest Groups (2021) and Democracy and Civil Society: Lobbying and Interest Advocacy (2021). In these two cases, I prepared all the materials, selected the readings for the syllabus, coordinated and marked the assignments, and undertook all the administrative tasks besides preparing and giving the lectures. In addition, I co-taught the modules Extreme Right Populism (2020) and Political Theory Seminar (2021). I also co-taught an undergraduate module focused on political institutions. At Aston University, I co-taught the modules The Governance of Global Problems and EuroSim: Learning Negotiation through Simulation Games under the guidance and supervision of Dr Patrycja Rozbicka, senior lecturer. I prepared the materials, helped with assignments, and gave lectures.
 

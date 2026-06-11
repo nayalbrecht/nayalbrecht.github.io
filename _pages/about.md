@@ -7,23 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-I am an enthusiastic political scientist and (wannabe) data scientist with a great passion for teaching and a strong background in quantitative and qualitative research methods. Throughout my academic journey, I have enjoyed working at diverse institutions in Brazil and the UK, including the University of Brasilia, the Federal University of Rio de Janeiro, the Federal University of Sao Carlos, Queen Mary University, and Aston University. I believe in alternative teaching methods and a more equalitarian education system to foster critical thinking and autonomy.
+I am an enthusiastic political scientist and aspiring data scientist with a passion for teaching and a strong background in both quantitative and qualitative research methods. Throughout my academic career, I have had the opportunity to work at a range of institutions in Brazil and the United Kingdom, including the University of Brasília, the Federal University of Rio de Janeiro, the Federal University of São Carlos, Queen Mary University of London, Aston University, and Newcastle University. I am committed to innovative teaching practices and to fostering a more equitable education system that encourages critical thinking, creativity, and student autonomy.
 
-Beyond academia, I held several managerial positions at the Ministry of Culture of Brazil, becoming a strong advocate for evidence-based policies (although ideologies and politics are inevitable). I worked at the Department of Intellectual Rights and was responsible for international negotiations and monitoring Collective Management Organisations. In addition to providing technical advice to the Ministry of Foreign Affairs, I joined bilateral negotiations directly. I also organised multilateral events, including a meeting for Portuguese-speaking countries in collaboration with the World Intellectual Property Organisation (WIPO). I am passionate about music and literature and have extensive experience working with creative industries. 
+Beyond academia, I held several managerial positions at Brazil's Ministry of Culture, where I became a strong advocate for evidence-informed policymaking, while recognising that politics and ideology inevitably shape public decisions. I worked in the Department of Intellectual Rights, overseeing international negotiations and the monitoring of Collective Management Organisations. In addition to providing technical advice to the Ministry of Foreign Affairs, I participated directly in bilateral negotiations and coordinated multilateral events, including a meeting of Portuguese-speaking countries organised in partnership with the World Intellectual Property Organisation (WIPO). My longstanding interests in music and literature have also given me extensive experience working with the creative and cultural sectors.
 
-My previous post-doctoral project led me to a long journey towards data science. Since then, I have focused on programming languages and their application to social science applied research, especially to make better public decisions. I chair the International Political Science Association's research committee on politics and business and was a co-editor of the Agenda Politica (Political Agenda) journal.
+My postdoctoral research sparked a lasting interest in data science and computational methods. Since then, I have focused on programming and its applications to social science research, particularly in the context of public policy and governance. I am currently Chair of the International Political Science Association's Research Committee on Politics and Business (RC38) and previously served as Co-Editor of the journal Agenda Política.
 
-In my spare time, I am a convict nerd, a huge Star Wars fan, a non-talented dancer, and a kickboxing fighter.
+Outside work, I am a confessed nerd, a devoted Star Wars fan, an enthusiastic—if not especially talented—dancer, and a kickboxer.
 
 
 A combination of data-driven and theory-driven approaches
 ======
-This repository combines data-driven and theory-driven approaches for researching politics and policymaking. In the era of artificial intelligence, it is crucial to use computational methods to enhance our research techniques and make better decisions regarding public policies. Hence, my research interests encompass scientific methodology, public administration, political governance, and public policies. I seek to use data science techniques to investigate policy issues and help policymakers make better decisions based on data. As a researcher, I combine a strong background in political theory with data science skills. I develop and change political concepts based on data analysis and design data collection and analysis based on theories in a eternal interative process.
+
+In the age of artificial intelligence, it is increasingly important to harness computational methods to strengthen research practices and support more effective public decision-making. My research interests lie at the intersection of scientific methodology, public administration, governance, and public policy. I am particularly interested in applying data science techniques to investigate policy problems and generate evidence that can inform policymakers and improve public outcomes.
+
+As a researcher, I combine a strong foundation in political theory with expertise in computational and data-driven methods. I view theory and data as mutually reinforcing: political concepts guide the design of data collection and analysis, while empirical findings help refine, challenge, and advance theoretical frameworks. My work is therefore grounded in a continuous and iterative dialogue between theory and evidence.
+
+This repository reflects that approach by bringing together theory-driven and data-driven perspectives for the study of politics, governance, and public policymaking.
+
 
 A dynamic and equalitarian perspective of teaching
 ======
-This page also offers resources for researching and teaching data science and political science. The page "research and resources" contains all the repositories linked to my previous research projects. In teaching, you will find the links to the syllabus and descriptions of the modules I led. I believe in a dynamic and equalitarian teaching perspective, where students have the autonomy to develop critical thinking. I do not believe in strong social hierarchies. My role as a lecturer is similar to that of a facilitator. My teaching methodology includes practical and interactive exercises combining political science with my students' hobbies, e.g. political analysis of TV shows and pop culture. I am also able to use different media. I always support my students in their endeavours. 
 
+believe in a dynamic and egalitarian approach to teaching, one that empowers students to develop autonomy, confidence, and critical thinking skills. Rather than reproducing rigid hierarchies in the classroom, I see education as a collaborative process in which students actively participate in the construction of knowledge.
+
+My teaching philosophy is inspired by Paulo Freire's critical pedagogy, active learning approaches, and gamification. I view my role as that of a facilitator who creates opportunities for students to engage, question, experiment, and learn from one another. To achieve this, I incorporate practical and interactive activities that connect political science concepts to students' everyday interests and experiences, including the analysis of television series, films, video games, and other forms of popular culture. I also make extensive use of different media and digital tools to create engaging and inclusive learning environments.
+
+Supporting students in their academic and professional development is one of the most rewarding aspects of my work, and I strive to create a classroom atmosphere that encourages curiosity, creativity, and intellectual independence.
+
+This website also serves as a hub for resources on political science, public policy, and data science. The "Research and Resources" section contains repositories, datasets, code, and materials related to my research projects. In the "Teaching" section, you will find course syllabi, module descriptions, teaching materials, and other resources developed throughout my academic career.
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Graduate courses"
 collection: teaching
-type: "Graduate"
+type: "Graduate courses"
 permalink: /teaching/graduate-teaching
 venue: "Different institutions"
 date: "From 2020 to 2026"
